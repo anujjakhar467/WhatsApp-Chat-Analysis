@@ -29,7 +29,7 @@ So Basically project :
       It showed that 8pm to 10pm was the most chatting time and nearly no message from 3am to 7am in the whole history.
     
     Then I compared the traffic on Weekends vs Weekdays of the top 5 users ? 
-    The messages were comparitley high on Fridays -maybe due to ITC meetings.
+    The messages were comparitley high on Fridays -maybe due to Hostel meetings.
     
     Number of messages may not be appropriate metric, so I decided to take length of message and summed it up.
     To my suprise 4 / 5 also had the most words. But one was expection (Maybe he like convening his message in a go not engaging in conversations)
